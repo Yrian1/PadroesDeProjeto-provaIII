@@ -3,3 +3,5 @@ O padrão principal para resolver o problema em relação a flexibilidade na mud
 "O Strategy é um padrão de projeto comportamental que permite que você defina uma família de algoritmos, coloque-os em classes separadas, e faça os objetos deles intercambiáveis." 
 - https://refactoring.guru/pt-br/design-patterns/strategy
 
+Done by: Yago Rian e Gabriel Andrade,
+para a disciplina de padrões de projeto, turma do semestre de 2024.2, em nome do docente Frederico Barbosa.
